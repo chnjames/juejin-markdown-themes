@@ -219,7 +219,7 @@ const themes = {
   'ink-mist': {
     owner: 'chnjames',
     repo: 'juejin-markdown-theme-ink-mist',
-    path: 'ink-mist.scss',
+    path: 'juejin.scss',
     ref: '3544ef8',
     highlight: 'atom-one-dark',
   },
