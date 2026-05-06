@@ -216,6 +216,13 @@ const themes = {
     ref: '38645c3',
     highlight: 'github',
   },
+  'ink-mist': {
+    owner: 'chnjames',
+    repo: 'juejin-markdown-theme-ink-mist',
+    path: 'ink-mist.scss',
+    ref: '3544ef8',
+    highlight: 'atom-one-dark',
+  },
 };
 
 export default themes;
